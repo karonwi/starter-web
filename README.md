@@ -13,3 +13,6 @@ Introduction
  Deployment section 
  
  Additional text added to the deployment
+ 
+ ##How to contribute
+ 
